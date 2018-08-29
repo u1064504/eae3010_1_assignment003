@@ -1,0 +1,1491 @@
+﻿Log file open, 08/27/18 12:11:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Englert_AP_3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280159
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.093s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Microsoft Basic Display Driver
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.27-18.11.38:207][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-18.11.38:207][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.27-18.11.38:218][  0]LogHAL: Display: Platform has ~ 16 GB [17073475584 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.27-18.11.38:218][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.27-18.11.38:218][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.27-18.11.38:218][  0]LogInit: Computer: DESKTOP-3ENOO13
+[2018.08.27-18.11.38:218][  0]LogInit: User: William
+[2018.08.27-18.11.38:218][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.27-18.11.38:218][  0]LogInit: High frequency timer resolution =2.531248 MHz
+[2018.08.27-18.11.38:218][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.27-18.11.38:218][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.27-18.11.38:218][  0]LogMemory: Process Physical Memory: 100.34 MB used, 100.34 MB peak
+[2018.08.27-18.11.38:218][  0]LogMemory: Process Virtual Memory: 89.30 MB used, 89.30 MB peak
+[2018.08.27-18.11.38:218][  0]LogMemory: Physical Memory: 7552.52 MB used,  8730.02 MB free, 16282.54 MB total
+[2018.08.27-18.11.38:218][  0]LogMemory: Virtual Memory: 4643.41 MB used,  8730.02 MB free, 134217728.00 MB total
+[2018.08.27-18.11.38:235][  0]LogInit: Using OS detected language (en-US).
+[2018.08.27-18.11.38:235][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.27-18.11.38:236][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.27-18.11.38:633][  0]LogStreaming: Display: Took  0.398s to InitEngineTextLocalization.
+[2018.08.27-18.11.38:633][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.27-18.11.38:659][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.27-18.11.38:659][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.27-18.11.38:837][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.27-18.11.38:837][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.27-18.11.38:839][  0]LogD3D11RHI:    0. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.27-18.11.38:839][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1414
+[2018.08.27-18.11.38:895][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.08.27-18.11.38:895][  0]LogD3D11RHI:       4055/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.08.27-18.11.38:896][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.27-18.11.38:896][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.27-18.11.38:896][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.08.27-18.11.38:903][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.27-18.11.38:903][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.08.27-18.11.38:903][  0]LogWindows: EnumDisplayDevices:
+[2018.08.27-18.11.38:903][  0]LogWindows:    0. 'Microsoft Basic Display Driver' (P:1 D:1)
+[2018.08.27-18.11.38:903][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.27-18.11.38:903][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.08.27-18.11.38:903][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.27-18.11.38:903][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.27-18.11.38:903][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2018.08.27-18.11.38:945][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.27-18.11.38:977][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.27-18.11.38:978][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Intermediate/Shaders/WorkingDirectory/18048/).
+[2018.08.27-18.11.38:978][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/William/AppData/Local/Temp/UnrealShaderWorkingDir/3D3E330A418736898F8F5DA30CE27B9F/'.
+[2018.08.27-18.11.39:261][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.27-18.11.39:277][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.27-18.11.39:292][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.27-18.11.39:310][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.27-18.11.39:327][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.27-18.11.39:340][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.27-18.11.39:354][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.27-18.11.39:368][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.27-18.11.39:375][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-18.11.39:467][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.27-18.11.39:529][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.27-18.11.39:529][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.27-18.11.39:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.27-18.11.39:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.27-18.11.39:566][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.27-18.11.39:582][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.27-18.11.39:595][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.27-18.11.39:608][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.27-18.11.39:618][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.27-18.11.39:618][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.27-18.11.39:665][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.27-18.11.39:665][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.27-18.11.39:665][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.27-18.11.40:414][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.27-18.11.40:474][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/William/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.27-18.11.40:474][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/William/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.27-18.11.40:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/William/Documents/Unreal Projects/Englert_AP_3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.27-18.11.40:474][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.27-18.11.40:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/William/Documents/Unreal Projects/Englert_AP_3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.27-18.11.40:474][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.27-18.11.40:488][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.27-18.11.40:500][  0]LogDerivedDataCache: Using Local data cache path C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.27-18.11.40:500][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.27-18.11.40:500][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.27-18.11.40:526][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.27-18.11.40:527][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.27-18.11.40:528][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.27-18.11.40:605][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.08.27-18.11.40:946][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-18.11.41:098][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.27-18.11.41:101][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.27-18.11.41:101][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.27-18.11.41:101][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.27-18.11.41:101][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.27-18.11.41:115][  0]LogNetVersion: Englert_AP_3 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 642799487)
+[2018.08.27-18.11.41:666][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.114233 seconds
+[2018.08.27-18.11.41:675][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.27-18.11.41:675][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.08.27-18.11.41:675][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.27-18.11.42:547][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.27-18.11.42:569][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.27-18.11.42:716][  0]SourceControl: Source control is disabled
+[2018.08.27-18.11.42:716][  0]SourceControl: Source control is disabled
+[2018.08.27-18.11.42:718][  0]SourceControl: Source control is disabled
+[2018.08.27-18.11.42:718][  0]SourceControl: Source control is disabled
+[2018.08.27-18.11.42:876][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.27-18.11.42:917][  0]LogOcInput: OculusInput pre-init called
+[2018.08.27-18.11.42:977][  0]LogEngine: Initializing Engine...
+[2018.08.27-18.11.42:978][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.27-18.11.42:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.27-18.11.42:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.27-18.11.42:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.27-18.11.42:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.27-18.11.43:210][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.27-18.11.43:219][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.27-18.11.43:232][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.27-18.11.43:266][  0]LogInit: FAudioDevice initialized.
+[2018.08.27-18.11.43:267][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.27-18.11.43:589][  0]LogDerivedDataCache: Saved boot cache 0.32s 71MB C:/Users/William/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.27-18.11.43:593][  0]LogInit: Texture streaming: Enabled
+[2018.08.27-18.11.43:605][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.27-18.11.43:618][  0]LogInit: Transaction tracking system initialized
+[2018.08.27-18.11.43:633][  0]BlueprintLog: New page: Editor Load
+[2018.08.27-18.11.43:764][  0]LocalizationService: Localization service is disabled
+[2018.08.27-18.11.44:022][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.27-18.11.44:022][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.27-18.11.44:022][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.27-18.11.44:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.27-18.11.44:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.27-18.11.44:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.27-18.11.44:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.27-18.11.44:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/' took 0.01s
+[2018.08.27-18.11.44:123][  0]SourceControl: Source control is disabled
+[2018.08.27-18.11.44:123][  0]Cmd: MAP LOAD FILE="C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.27-18.11.44:124][  0]LightingResults: New page: Lighting Build
+[2018.08.27-18.11.44:125][  0]MapCheck: New page: Map Check
+[2018.08.27-18.11.44:126][  0]LightingResults: New page: Lighting Build
+[2018.08.27-18.11.44:611][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.27-18.11.44:622][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.27-18.11.44:648][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.27-18.11.44:700][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.01ms to complete.
+[2018.08.27-18.11.44:700][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.577
+[2018.08.27-18.11.44:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.27-18.11.44:802][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.27-18.11.44:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.27-18.11.44:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.27-18.11.44:826][  0]LogCollectionManager: Loaded 0 collections in 0.001202 seconds
+[2018.08.27-18.11.44:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/Collections/' took 0.01s
+[2018.08.27-18.11.44:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/Developers/William/Collections/' took 0.01s
+[2018.08.27-18.11.44:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/Collections/' took 0.01s
+[2018.08.27-18.11.44:869][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.27-18.11.44:880][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2572 classes and 603 folders.
+[2018.08.27-18.11.44:885][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.27-18.11.44:918][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-18.11.44:921][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.27-18.11.44:941][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.27-18.11.44:943][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.27-18.11.44:949][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.27-18.11.45:038][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-18.11.45:173][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-18.11.45:173][  0]LogLoad: (Engine Initialization) Total time: 8.24 seconds
+[2018.08.27-18.11.45:173][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.27-18.11.45:214][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.27-18.11.45:337][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.27-18.11.45:359][  1]LogAssetRegistry: Asset discovery search completed in 4.7771 seconds
+[2018.08.27-18.11.45:361][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.27-18.11.45:361][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.08.27-18.12.08:440][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.12.46:745][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.46:745][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.46:746][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.46:747][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.46:771][623]LogEditorActor: Deleted 4 Actors (0.029 secs)
+[2018.08.27-18.12.52:666][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.52:691][155]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.08.27-18.12.53:804][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.53:829][270]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.08.27-18.12.55:584][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.55:610][433]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.08.27-18.12.57:621][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.57:646][623]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.08.27-18.12.58:838][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.12.58:863][728]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.08.27-18.13.02:893][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.08.27-18.13.04:785][330]Cmd: DELETE
+[2018.08.27-18.13.04:786][330]Cmd: ACTOR DELETE
+[2018.08.27-18.13.04:788][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.13.04:813][330]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.08.27-18.13.06:493][507]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.08.27-18.13.07:957][615]Cmd: DELETE
+[2018.08.27-18.13.07:957][615]Cmd: ACTOR DELETE
+[2018.08.27-18.13.07:961][615]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2018.08.27-18.13.08:016][615]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.08.27-18.13.09:223][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.13.13:958][202]Cmd: TRANSACTION UNDO
+[2018.08.27-18.13.13:958][202]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-18.13.13:974][202]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.27-18.13.14:630][253]Cmd: TRANSACTION UNDO
+[2018.08.27-18.13.14:630][253]LogEditorTransaction: Undo Delete Actors
+[2018.08.27-18.13.15:864][322]Cmd: TRANSACTION UNDO
+[2018.08.27-18.13.15:864][322]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-18.13.16:441][365]Cmd: TRANSACTION UNDO
+[2018.08.27-18.13.16:441][365]LogEditorTransaction: Undo Delete Actors
+[2018.08.27-18.13.17:005][403]Cmd: TRANSACTION UNDO
+[2018.08.27-18.13.17:005][403]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-18.13.18:151][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.08.27-18.13.19:160][568]Cmd: DELETE
+[2018.08.27-18.13.19:160][568]Cmd: ACTOR DELETE
+[2018.08.27-18.13.19:163][568]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.27-18.13.19:187][568]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.08.27-18.13.36:690][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.27-18.13.38:233][555]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.27-18.13.44:019][131]Cmd: TRANSACTION UNDO
+[2018.08.27-18.13.44:019][131]LogEditorTransaction: Undo Move Actors
+[2018.08.27-18.13.46:436][307]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.08.27-18.13.49:423][535]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.13.49:812][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.13.50:065][591]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.13.51:329][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.14.01:390][626]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.08.27-18.14.07:265][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.27-18.14.08:191][173]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.27-18.14.51:181][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.14.51:442][ 58]LogRenderer: Reallocating scene render targets to support 964x440 Format 10 NumSamples 1 (Frame:16455).
+[2018.08.27-18.14.51:522][ 60]LogRenderer: Reallocating scene render targets to support 964x444 Format 10 NumSamples 1 (Frame:16459).
+[2018.08.27-18.14.51:563][ 61]LogRenderer: Reallocating scene render targets to support 964x448 Format 10 NumSamples 1 (Frame:16461).
+[2018.08.27-18.14.51:604][ 62]LogRenderer: Reallocating scene render targets to support 964x452 Format 10 NumSamples 1 (Frame:16463).
+[2018.08.27-18.14.51:653][ 63]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:16465).
+[2018.08.27-18.14.51:697][ 64]LogRenderer: Reallocating scene render targets to support 964x468 Format 10 NumSamples 1 (Frame:16467).
+[2018.08.27-18.14.51:739][ 65]LogRenderer: Reallocating scene render targets to support 964x480 Format 10 NumSamples 1 (Frame:16469).
+[2018.08.27-18.14.51:782][ 66]LogRenderer: Reallocating scene render targets to support 964x488 Format 10 NumSamples 1 (Frame:16471).
+[2018.08.27-18.14.51:825][ 67]LogRenderer: Reallocating scene render targets to support 964x500 Format 10 NumSamples 1 (Frame:16473).
+[2018.08.27-18.14.51:869][ 68]LogRenderer: Reallocating scene render targets to support 964x504 Format 10 NumSamples 1 (Frame:16475).
+[2018.08.27-18.14.51:913][ 69]LogRenderer: Reallocating scene render targets to support 964x512 Format 10 NumSamples 1 (Frame:16477).
+[2018.08.27-18.14.51:954][ 70]LogRenderer: Reallocating scene render targets to support 964x516 Format 10 NumSamples 1 (Frame:16479).
+[2018.08.27-18.14.52:048][ 72]LogRenderer: Reallocating scene render targets to support 964x520 Format 10 NumSamples 1 (Frame:16483).
+[2018.08.27-18.14.52:091][ 73]LogRenderer: Reallocating scene render targets to support 964x524 Format 10 NumSamples 1 (Frame:16485).
+[2018.08.27-18.14.52:176][ 76]LogRenderer: Reallocating scene render targets to support 964x528 Format 10 NumSamples 1 (Frame:16489).
+[2018.08.27-18.14.52:967][159]LogRenderer: Reallocating scene render targets to support 964x532 Format 10 NumSamples 1 (Frame:16495).
+[2018.08.27-18.14.53:013][160]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:16497).
+[2018.08.27-18.14.53:056][161]LogRenderer: Reallocating scene render targets to support 964x548 Format 10 NumSamples 1 (Frame:16499).
+[2018.08.27-18.14.53:096][162]LogRenderer: Reallocating scene render targets to support 964x552 Format 10 NumSamples 1 (Frame:16501).
+[2018.08.27-18.14.53:137][163]LogRenderer: Reallocating scene render targets to support 964x556 Format 10 NumSamples 1 (Frame:16503).
+[2018.08.27-18.14.53:180][164]LogRenderer: Reallocating scene render targets to support 964x564 Format 10 NumSamples 1 (Frame:16505).
+[2018.08.27-18.14.53:220][165]LogRenderer: Reallocating scene render targets to support 964x568 Format 10 NumSamples 1 (Frame:16507).
+[2018.08.27-18.14.53:258][166]LogRenderer: Reallocating scene render targets to support 964x576 Format 10 NumSamples 1 (Frame:16509).
+[2018.08.27-18.14.53:305][167]LogRenderer: Reallocating scene render targets to support 964x584 Format 10 NumSamples 1 (Frame:16511).
+[2018.08.27-18.14.53:346][168]LogRenderer: Reallocating scene render targets to support 964x588 Format 10 NumSamples 1 (Frame:16513).
+[2018.08.27-18.15.19:553][438]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.15.24:718][917]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.15.24:746][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.15.31:236][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.15.32:102][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.27-18.15.34:333][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.16.56:525][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.17.03:477][761]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.27-18.17.03:968][807]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.08.27-18.17.06:530][ 54]Cmd: ACTOR HIDE SELECTED
+[2018.08.27-18.17.07:657][170]Cmd: ACTOR HIDE SELECTED
+[2018.08.27-18.17.09:145][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.17.09:735][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.27-18.17.10:519][449]Cmd: ACTOR HIDE SELECTED
+[2018.08.27-18.17.12:191][623]Cmd: ACTOR HIDE SELECTED
+[2018.08.27-18.17.12:499][655]Cmd: ACTOR HIDE SELECTED
+[2018.08.27-18.17.12:770][683]Cmd: ACTOR HIDE SELECTED
+[2018.08.27-18.17.13:657][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.17.14:809][881]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.08.27-18.17.16:063][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.17.17:132][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.17.32:505][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.19.19:850][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.19.22:942][694]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock)
+[2018.08.27-18.19.36:563][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.20.10:576][827]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.08.27-18.20.27:867][517]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock)
+[2018.08.27-18.20.50:023][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.21.48:984][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.23.03:772][619]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_Auto1748CBC12441FD5A3B85980980D23ECED.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.08.27-18.23.03:781][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.155
+[2018.08.27-18.23.03:781][619]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2018.08.27-18.23.56:963][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_WhiteBoxAP" FILE="C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/Materials/M_WhiteBoxAP.uasset" SILENT=true
+[2018.08.27-18.23.56:980][555]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/M_WhiteBoxAPB1C72AB54ECEFC597433DAAE01472D79.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/Materials/M_WhiteBoxAP.uasset'
+[2018.08.27-18.24.02:686][912]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_WhiteBoxAP.M_WhiteBoxAP
+[2018.08.27-18.24.02:688][912]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.24.03:504][912]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.24.03:524][912]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.24.03:524][912]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.24.03:524][912]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.24.03:524][912]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.24.03:620][912]LogSlate: Took 0.054369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.27-18.24.05:361][992]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.24.05:397][994]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.24.05:456][995]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.24.05:558][  2]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.24.05:699][ 10]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.24.05:733][ 12]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.24.05:935][ 24]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.24.05:979][ 26]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.24.06:388][ 52]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.24.06:401][ 53]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.24.06:419][ 54]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.24.06:747][ 74]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.24.06:759][ 75]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.24.06:963][ 88]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.24.07:009][ 91]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.24.07:316][110]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.24.07:349][112]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.24.07:775][139]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.24.07:775][139]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.24.07:775][139]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.24.07:775][139]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.24.19:325][499]LogSlate: Window 'M_WhiteBoxAP' being destroyed
+[2018.08.27-18.26.32:044][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.28.08:649][992]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.28.08:663][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.28.08:694][993]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.27-18.28.08:694][993]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.28.08:694][993]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.28.08:694][993]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.28.09:259][ 54]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.28.09:308][ 59]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.28.09:318][ 60]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.28.09:318][ 60]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.28.09:490][ 77]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.28.09:503][ 78]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.28.09:542][ 82]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.28.09:554][ 83]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.28.09:703][ 98]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.28.09:887][115]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.28.10:104][135]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.28.10:183][142]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.28.10:297][153]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.28.10:431][166]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.28.10:473][170]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.28.10:731][194]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.28.10:752][196]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.28.10:912][212]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.28.10:948][216]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.28.12:883][446]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.28.12:883][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.28.12:883][446]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.28.12:883][446]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.28.48:559][276]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.28.48:577][276]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.28.48:577][276]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.28.48:577][276]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.28.48:577][276]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.28.48:580][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.28.49:200][328]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.28.49:238][331]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.28.49:249][332]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.28.49:254][332]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.28.49:439][348]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.28.49:449][349]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.28.49:462][350]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.28.49:493][353]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.28.49:669][368]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.28.49:845][382]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.28.50:033][397]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.28.50:109][403]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.28.50:287][418]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.28.50:397][427]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.28.50:460][432]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.28.50:705][454]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.28.50:726][456]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.28.50:913][473]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.28.50:962][478]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.28.51:222][502]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.28.51:222][502]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.28.51:222][502]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.28.51:222][502]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.28.52:271][608]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.28.52:290][608]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.28.52:290][608]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.28.52:290][608]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.28.52:290][608]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.28.52:293][608]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.28.52:553][631]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.28.52:574][633]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.28.52:586][634]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.28.52:588][634]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.28.52:787][653]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.28.52:796][654]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.28.52:808][655]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.28.52:817][656]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.28.53:013][675]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.28.53:146][687]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.28.53:342][705]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.28.53:399][710]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.28.53:541][723]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.28.53:677][736]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.28.53:711][739]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.28.53:973][763]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.28.54:013][767]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.28.54:177][782]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.28.54:212][785]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.28.54:479][809]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.28.54:479][809]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.28.54:479][809]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.28.54:479][809]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.29.05:048][778]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.05:065][778]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.05:080][778]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.27-18.29.05:080][778]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.29.05:080][778]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.05:080][778]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.05:330][801]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.05:352][803]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.05:362][804]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.05:373][805]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.05:562][822]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.05:570][823]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.05:593][825]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.05:603][826]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.05:768][841]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.05:914][854]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.06:104][870]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.06:149][874]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.06:278][885]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.06:409][896]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.06:470][901]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.06:705][921]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.06:727][923]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.06:875][936]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.06:935][941]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.07:213][964]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.29.07:213][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.29.07:213][964]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.29.07:213][964]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.29.11:054][309]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.11:072][309]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.11:088][309]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.11:088][309]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.11:088][309]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.11:088][309]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.11:337][332]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.11:359][334]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.11:370][335]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.11:374][335]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.11:568][352]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.11:578][353]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.11:590][354]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.11:600][355]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.11:792][372]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.11:911][382]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.12:088][397]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.12:150][402]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.12:313][416]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.12:394][423]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.12:442][427]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.12:716][450]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.12:728][451]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.12:914][467]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.12:924][468]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.13:206][491]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.29.13:206][491]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.29.13:206][491]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.29.13:206][491]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.29.14:884][638]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.14:905][638]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.14:905][638]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.14:905][638]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.14:905][638]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.14:908][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.15:158][658]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.15:180][660]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.15:192][661]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.15:200][662]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.15:381][678]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.15:382][678]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.15:404][680]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.15:415][681]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.15:605][698]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.15:721][708]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.15:901][723]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.15:969][729]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.16:118][742]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.16:215][750]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.16:239][752]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.16:522][776]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.16:535][777]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.16:718][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.16:729][794]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.17:032][817]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.29.17:033][817]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.29.17:033][817]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.29.17:033][817]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.29.22:809][368]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.22:829][368]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.22:829][368]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.22:829][368]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.22:829][368]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.22:829][368]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.23:084][387]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.23:110][389]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.23:120][390]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.23:129][391]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.23:296][404]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.23:309][405]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.23:340][407]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.23:352][408]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.23:511][420]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.23:654][430]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.23:824][449]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.23:898][458]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.24:036][474]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.24:071][477]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.24:101][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.24:134][478]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.27-18.29.24:194][483]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.29.24:427][502]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.24:440][503]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.24:501][508]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.24:645][518]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.24:668][521]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.24:710][526]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.24:726][528]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.24:881][546]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.24:898][548]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.24:905][549]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.24:933][551]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.24:952][551]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.24:958][551]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.25:189][566]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.27-18.29.25:359][580]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.29.25:400][585]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.25:452][591]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.25:485][595]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.25:668][616]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.25:711][621]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.25:719][622]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.25:727][623]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.25:895][643]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.25:912][645]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.25:946][649]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.25:955][650]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.26:271][687]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.26:469][710]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.26:528][717]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.26:535][718]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.26:799][749]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.26:839][754]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.27:125][787]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.27:136][788]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.27:178][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.27:340][812]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.29:613][ 80]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.29:633][ 80]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.29:633][ 80]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.29:633][ 80]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.29:633][ 80]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.29:636][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.29:871][ 95]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.29:895][ 97]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.29:923][ 99]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.29:927][ 99]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.30:085][109]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.30:105][110]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.30:117][111]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.30:144][113]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.30:301][123]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.30:441][132]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.30:609][143]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.30:645][145]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.30:785][154]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.30:903][161]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.30:948][164]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.31:176][179]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.31:210][181]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.31:352][190]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.31:408][194]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.31:658][209]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.29.31:658][209]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.29.31:658][209]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.29.31:658][209]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.29.39:236][ 88]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.39:252][ 88]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.39:252][ 88]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.39:252][ 88]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.39:252][ 88]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.39:255][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.39:500][104]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.39:531][106]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.39:543][107]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.39:552][108]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.39:711][119]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.39:732][121]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.39:750][122]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.39:762][123]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.39:912][136]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.40:072][149]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.40:252][164]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.40:287][167]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.40:400][176]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.40:554][189]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.40:588][192]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.40:848][213]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.40:861][214]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.41:036][229]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.41:072][232]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.41:248][249]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.41:266][249]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.41:277][249]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.41:306][249]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.27-18.29.41:345][253]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.29.41:345][253]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.41:418][262]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.41:543][276]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.41:612][284]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.41:628][286]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.41:638][287]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.41:754][301]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.41:805][307]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.41:848][312]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.41:856][313]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.41:955][325]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.42:155][346]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.42:341][363]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.42:381][368]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.42:456][377]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.42:642][399]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.42:682][404]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.42:936][432]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.42:955][434]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.43:049][443]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.43:154][453]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.43:425][478]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.27-18.29.43:425][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.27-18.29.43:425][478]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.29.43:425][478]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.29.50:359][204]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.29.50:378][204]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.29.50:378][204]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.29.50:378][204]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.50:378][204]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.50:381][204]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.29.50:619][230]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.29.50:646][233]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.29.50:662][235]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.29.50:678][237]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.29.50:849][253]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.29.50:862][255]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.29.50:862][255]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.29.50:882][257]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.29.51:063][279]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.29.51:189][294]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.29.51:381][317]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.29.51:404][320]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.29.51:563][339]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.29.51:688][354]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.29.51:707][356]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.29.51:969][381]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.29.51:992][383]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.29.52:180][401]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.29.52:181][401]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.29.52:465][428]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.08.27-18.29.52:465][428]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.08.27-18.29.52:465][428]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.29.52:465][428]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.30.04:776][824]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.30.04:789][824]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.30.04:789][824]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.30.04:789][824]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.30.04:789][824]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.30.04:794][824]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.30.05:039][841]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.30.05:065][843]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.30.05:100][846]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.30.05:110][847]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.30.05:257][861]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.30.05:304][865]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.30.05:311][866]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.30.05:330][868]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.30.05:472][882]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.30.05:635][897]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.30.05:853][917]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.30.05:883][920]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.30.06:000][931]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.30.06:156][947]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.30.06:176][947]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.30.06:180][947]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.30.06:184][947]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.08.27-18.30.06:211][947]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.27-18.30.06:429][973]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.27-18.30.06:489][980]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.30.06:583][991]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.30.06:605][993]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.30.06:719][  7]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.30.06:764][ 12]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.30.06:828][ 20]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.27-18.30.06:863][ 24]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.27-18.30.06:945][ 34]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.27-18.30.06:988][ 39]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.27-18.30.07:037][ 45]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.27-18.30.07:047][ 46]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.30.07:163][ 60]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.27-18.30.07:339][ 81]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.27-18.30.07:514][102]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.27-18.30.07:564][108]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.27-18.30.07:656][119]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.27-18.30.07:815][138]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.27-18.30.07:872][145]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.27-18.30.08:107][173]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.27-18.30.08:114][174]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.27-18.30.08:249][190]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.30.08:348][202]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.27-18.30.08:590][230]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.08.27-18.30.08:590][230]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.08.27-18.30.08:590][230]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.30.08:590][230]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.30.53:603][568]LogMaterialEditor: Applying material M_WhiteBoxAP
+[2018.08.27-18.30.54:115][568]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.30.54:167][568]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.27-18.30.54:167][568]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.27-18.30.54:167][568]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.27-18.30.54:167][568]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.27-18.30.54:177][568]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.30.54:193][568]LogMaterial: Display: Missing cached shader map for material M_WhiteBoxAP, compiling. 
+[2018.08.27-18.30.54:242][568]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WhiteBoxAP, compiling. 
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.27-18.30.56:046][568]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.27-18.30.56:047][568]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.27-18.30.56:050][568]TextureStreamingBuild: Display: Compiling optional shaders took 1.816 seconds.
+[2018.08.27-18.30.58:372][833]LogMaterialEditor: Saving and Compiling material M_WhiteBoxAP
+[2018.08.27-18.30.59:187][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_WhiteBoxAP" FILE="C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/Materials/M_WhiteBoxAP.uasset" SILENT=true
+[2018.08.27-18.30.59:210][833]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/M_WhiteBoxAPC9A398C949CCF9CBAAE43391578FEA6B.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/Materials/M_WhiteBoxAP.uasset'
+[2018.08.27-18.30.59:221][833]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.08.27-18.30.59:221][833]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.08.27-18.30.59:221][833]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.27-18.30.59:221][833]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.27-18.31.27:489][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.31.43:527][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.31.50:751][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.31.56:508][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.32.04:700][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.32.26:330][312]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock)
+[2018.08.27-18.32.35:027][174]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.32.40:957][649]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.32.48:058][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.33.33:046][526]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.34.18:011][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.34.21:712][197]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.35.26:697][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.35.26:863][ 18]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_Auto22FED808D432CB3EC9ACB11B64D706A57.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.08.27-18.35.26:866][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.149
+[2018.08.27-18.35.26:866][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.08.27-18.35.29:614][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.35.29:848][216]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap9F6C89654C88779ECF8C8688FB11D811.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.27-18.35.30:081][216]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_BuiltDataF8089C354AB2AC31483016B03CFDB2AB.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.27-18.35.46:848][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.36.07:428][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.36.37:025][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.36.48:887][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.37.40:618][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.38.14:320][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.38.19:760][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.39.25:506][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.39.29:553][572]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.39.53:477][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.40.08:372][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.40.38:937][178]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_217' invalid (136 verts, 0 indices).
+[2018.08.27-18.40.38:937][178]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_217.BodySetup_0 when we are unable to.
+[2018.08.27-18.40.50:266][278]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_225' invalid (136 verts, 0 indices).
+[2018.08.27-18.40.50:266][278]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_225.BodySetup_0 when we are unable to.
+[2018.08.27-18.40.52:713][519]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_233' invalid (152 verts, 0 indices).
+[2018.08.27-18.40.52:713][519]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_233.BodySetup_0 when we are unable to.
+[2018.08.27-18.40.55:440][786]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_241' invalid (152 verts, 0 indices).
+[2018.08.27-18.40.55:440][786]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_241.BodySetup_0 when we are unable to.
+[2018.08.27-18.40.58:453][ 87]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_249' invalid (176 verts, 0 indices).
+[2018.08.27-18.40.58:453][ 87]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_249.BodySetup_0 when we are unable to.
+[2018.08.27-18.41.00:000][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_257' invalid (176 verts, 0 indices).
+[2018.08.27-18.41.00:001][237]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_257.BodySetup_0 when we are unable to.
+[2018.08.27-18.41.03:531][593]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_265' invalid (192 verts, 0 indices).
+[2018.08.27-18.41.03:531][593]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_265.BodySetup_0 when we are unable to.
+[2018.08.27-18.41.19:922][181]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.43.18:741][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.43.24:750][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.43.25:131][ 74]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMapC977345C4906D1D5586EF08A97F4CB6D.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.27-18.43.25:309][ 74]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_BuiltDataEC4450C64FFA9FDAF717FFAA76678513.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.27-18.43.50:352][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.44.13:236][612]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.45.08:988][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.45.12:627][374]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.27-18.45.18:285][911]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.45.27:928][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.45.45:166][196]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.46.40:561][532]Cmd: DELETE
+[2018.08.27-18.46.40:561][532]Cmd: ACTOR DELETE
+[2018.08.27-18.46.40:573][532]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-18.46.40:611][532]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.08.27-18.47.06:040][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.48.10:510][177]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.48.12:286][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.48.24:695][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.48.27:910][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.48.30:596][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.48.37:537][653]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.27-18.48.45:741][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.49.21:301][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.49.38:270][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.50.14:947][507]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.50.17:458][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-18.50.24:183][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.50.42:102][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.51.25:055][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.52.22:801][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.52.38:198][309]LogEditorViewport: Clicking Background
+[2018.08.27-18.52.39:079][407]LogEditorViewport: Clicking Background
+[2018.08.27-18.52.40:099][527]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.52.41:578][680]LogEditorViewport: Clicking Background
+[2018.08.27-18.52.43:760][929]LogEditorViewport: Clicking Background
+[2018.08.27-18.52.45:155][ 90]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.52.51:295][772]LogEditorViewport: Clicking Background
+[2018.08.27-18.53.01:933][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.54.18:631][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.54.32:590][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.54.40:564][776]LogEditorViewport: Clicking Background
+[2018.08.27-18.54.41:205][814]LogEditorViewport: Clicking Background
+[2018.08.27-18.54.41:922][857]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.54.46:836][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.54.55:734][680]LogEditorViewport: Clicking Background
+[2018.08.27-18.55.20:385][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-18.55.20:657][157]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_Auto393A0E43B4FD6210EF438EE9E681A2961.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.08.27-18.55.20:667][157]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.257
+[2018.08.27-18.55.20:667][157]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2018.08.27-18.56.18:465][621]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.56.31:143][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.56.33:517][520]LogEditorViewport: Clicking Background
+[2018.08.27-18.56.34:904][603]LogEditorViewport: Clicking Background
+[2018.08.27-18.56.35:590][644]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.56.37:661][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.56.46:105][271]LogEditorViewport: Clicking Background
+[2018.08.27-18.56.47:158][334]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock14)
+[2018.08.27-18.56.48:418][408]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.56.50:271][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.57.04:742][383]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.57.14:564][968]LogEditorViewport: Clicking Background
+[2018.08.27-18.57.15:602][ 30]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.57.34:328][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.57.48:416][994]LogEditorViewport: Clicking Background
+[2018.08.27-18.57.49:368][ 51]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.57.55:186][397]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.58.04:003][921]Cmd: TRANSACTION UNDO
+[2018.08.27-18.58.04:003][921]LogEditorTransaction: Undo Move Actors
+[2018.08.27-18.58.04:017][921]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock5.BrushComponent0) Component already registered.
+[2018.08.27-18.58.04:017][921]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock6.BrushComponent0) Component already registered.
+[2018.08.27-18.58.04:019][921]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetSquareBlock.BrushComponent0) Component already registered.
+[2018.08.27-18.58.04:019][921]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock16.BrushComponent0) Component already registered.
+[2018.08.27-18.58.04:019][921]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock17.BrushComponent0) Component already registered.
+[2018.08.27-18.58.04:022][921]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2018.08.27-18.58.04:022][921]LogGeometryMode: Warning: Unable to resolve CylinderBrush_21 Brush in new BSP, see above
+[2018.08.27-18.58.04:022][921]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.08.27-18.58.05:259][993]LogEditorViewport: Clicking Background
+[2018.08.27-18.58.25:935][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.58.44:799][362]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.58.47:961][550]LogEditorViewport: Clicking Background
+[2018.08.27-18.58.50:283][689]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.58.54:877][962]LogEditorViewport: Clicking Background
+[2018.08.27-18.58.57:753][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.59.06:358][648]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock14)
+[2018.08.27-18.59.08:076][749]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.59.08:077][749]LogGeometryMode: Warning: Unable to find CylinderBrush_21 Brush(s) in new BSP
+[2018.08.27-18.59.08:077][749]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.08.27-18.59.09:224][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.59.09:974][861]LogEditorViewport: Clicking Background
+[2018.08.27-18.59.11:577][957]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-18.59.13:175][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-18.59.14:058][104]LogEditorViewport: Clicking Background
+[2018.08.27-18.59.57:317][695]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.00.02:563][  7]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.03:451][ 60]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.00.07:369][292]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.08:441][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.00.10:160][459]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock14)
+[2018.08.27-19.00.11:356][529]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.00.15:285][763]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.20:993][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.00.23:944][282]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.00.34:313][901]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.36:136][ 10]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.00.40:458][265]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.41:699][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.00.43:617][454]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock14)
+[2018.08.27-19.00.44:796][523]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.45:837][585]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock14)
+[2018.08.27-19.00.46:495][623]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.47:131][661]LogEditorViewport: Clicking Background
+[2018.08.27-19.00.47:649][692]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.00.48:893][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.00.59:154][378]LogEditorViewport: Clicking Background
+[2018.08.27-19.01.00:704][470]LogEditorViewport: Clicking Background
+[2018.08.27-19.01.00:927][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.01.02:797][594]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.01.15:587][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.01.32:056][343]LogEditorViewport: Clicking Background
+[2018.08.27-19.01.32:909][394]LogEditorViewport: Clicking Background
+[2018.08.27-19.01.33:577][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.01.53:160][606]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.01.55:536][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.01.59:493][983]Cmd: TRANSACTION UNDO
+[2018.08.27-19.01.59:493][983]LogEditorTransaction: Undo Modifier [Brush Clip]
+[2018.08.27-19.02.01:702][111]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.02.09:184][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.02.10:723][648]LogEditorViewport: Clicking Background
+[2018.08.27-19.02.12:279][741]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.02.13:540][815]LogEditorViewport: Clicking Background
+[2018.08.27-19.02.37:621][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.02.51:608][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.03.10:648][224]LogEditorViewport: Clicking Background
+[2018.08.27-19.03.17:262][618]LogEditorViewport: Clicking Background
+[2018.08.27-19.03.22:094][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.03.31:372][457]LogEditorViewport: Clicking Background
+[2018.08.27-19.03.34:990][671]LogEditorViewport: Clicking Background
+[2018.08.27-19.03.36:127][739]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.36:127][739]LogEditorTransaction: Undo Clicking Background
+[2018.08.27-19.03.36:582][763]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.36:582][763]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.03.37:070][792]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.37:070][792]LogEditorTransaction: Undo Clicking Background
+[2018.08.27-19.03.37:514][817]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.37:514][817]LogEditorTransaction: Undo Vertex Snap
+[2018.08.27-19.03.38:104][850]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.38:104][850]LogEditorTransaction: Undo Modifier [Brush Clip]
+[2018.08.27-19.03.38:620][880]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.38:620][880]LogEditorTransaction: Undo Rotate Actors
+[2018.08.27-19.03.38:633][880]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock5.BrushComponent0) Component already registered.
+[2018.08.27-19.03.38:633][880]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock6.BrushComponent0) Component already registered.
+[2018.08.27-19.03.38:635][880]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetSquareBlock.BrushComponent0) Component already registered.
+[2018.08.27-19.03.38:635][880]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock16.BrushComponent0) Component already registered.
+[2018.08.27-19.03.38:635][880]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock17.BrushComponent0) Component already registered.
+[2018.08.27-19.03.39:105][907]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.39:105][907]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.03.39:805][949]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.39:805][949]LogEditorTransaction: Undo Clicking Background
+[2018.08.27-19.03.40:743][  4]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.40:743][  4]LogEditorTransaction: Undo Modifier [Brush Clip]
+[2018.08.27-19.03.41:601][ 54]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.41:601][ 54]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.03.42:180][ 89]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.42:180][ 89]LogEditorTransaction: Undo Clicking Background
+[2018.08.27-19.03.42:641][114]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.42:641][114]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.03.43:075][140]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.43:075][140]LogEditorTransaction: Undo Clicking Background
+[2018.08.27-19.03.43:561][168]Cmd: TRANSACTION UNDO
+[2018.08.27-19.03.43:561][168]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.03.44:563][228]LogEditorViewport: Clicking Background
+[2018.08.27-19.04.08:757][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.04.20:070][354]LogEditorViewport: Clicking Background
+[2018.08.27-19.04.28:399][853]LogEditorViewport: Clicking Background
+[2018.08.27-19.04.39:562][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.04.50:104][154]LogEditorViewport: Clicking Background
+[2018.08.27-19.04.53:385][350]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.05.01:687][846]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.06:049][106]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.09:206][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.05.10:490][371]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.11:010][402]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.11:562][435]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.11:647][440]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.14:644][617]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock14)
+[2018.08.27-19.05.15:526][668]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.16:573][730]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.17:176][766]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.18:581][849]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.05.24:594][206]Cmd: TRANSACTION UNDO
+[2018.08.27-19.05.24:594][206]LogEditorTransaction: Undo Move Actors
+[2018.08.27-19.05.24:609][206]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock5.BrushComponent0) Component already registered.
+[2018.08.27-19.05.24:610][206]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock6.BrushComponent0) Component already registered.
+[2018.08.27-19.05.24:612][206]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetSquareBlock.BrushComponent0) Component already registered.
+[2018.08.27-19.05.24:612][206]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock16.BrushComponent0) Component already registered.
+[2018.08.27-19.05.24:612][206]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock17.BrushComponent0) Component already registered.
+[2018.08.27-19.05.26:433][310]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.29:823][513]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.30:693][565]LogEditorViewport: Clicking Background
+[2018.08.27-19.05.34:180][774]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock14)
+[2018.08.27-19.05.43:685][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.05.47:433][559]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.05.53:768][933]Cmd: TRANSACTION UNDO
+[2018.08.27-19.05.53:768][933]LogEditorTransaction: Undo Move Actors
+[2018.08.27-19.05.53:783][933]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock19.BrushComponent0) Component already registered.
+[2018.08.27-19.05.54:787][990]Cmd: TRANSACTION UNDO
+[2018.08.27-19.05.54:787][990]LogEditorTransaction: Undo Move Actors
+[2018.08.27-19.05.54:806][990]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetRectBlock19.BrushComponent0) Component already registered.
+[2018.08.27-19.06.05:751][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.06.17:262][323]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2018.08.27-19.06.20:789][533]Cmd: DELETE
+[2018.08.27-19.06.20:810][533]Cmd: ACTOR DELETE
+[2018.08.27-19.06.20:818][533]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.06.20:857][533]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.08.27-19.06.40:499][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.06.42:434][825]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2018.08.27-19.06.45:512][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.06.49:596][243]LogEditorViewport: Clicking Background
+[2018.08.27-19.06.50:363][289]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush4)
+[2018.08.27-19.06.51:720][369]LogEditorViewport: Clicking Background
+[2018.08.27-19.06.52:425][411]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2018.08.27-19.06.54:683][545]Cmd: DELETE
+[2018.08.27-19.06.54:716][545]Cmd: ACTOR DELETE
+[2018.08.27-19.06.54:725][545]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.06.54:766][545]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.08.27-19.07.00:704][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.07.24:633][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.07.26:047][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.07.27:977][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.07.29:067][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.07.29:862][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.07.30:652][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.07.31:698][743]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.07.33:178][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.07.52:745][974]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.07.53:605][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.08.05:911][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.08.18:044][457]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.08.22:389][706]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.08.23:270][757]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.08.26:446][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.08.30:928][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.08.50:175][343]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.09.18:364][  1]Cmd: DELETE
+[2018.08.27-19.09.18:391][  1]Cmd: ACTOR DELETE
+[2018.08.27-19.09.18:402][  1]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.09.18:443][  1]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.08.27-19.09.28:003][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.09.39:134][226]Cmd: DELETE
+[2018.08.27-19.09.39:169][226]Cmd: ACTOR DELETE
+[2018.08.27-19.09.39:179][226]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.09.39:221][226]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.08.27-19.09.40:601][305]Cmd: DELETE
+[2018.08.27-19.09.40:634][305]Cmd: ACTOR DELETE
+[2018.08.27-19.09.40:644][305]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.09.40:684][305]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.08.27-19.09.41:895][374]Cmd: DELETE
+[2018.08.27-19.09.41:926][374]Cmd: ACTOR DELETE
+[2018.08.27-19.09.41:936][374]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.09.41:976][374]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.08.27-19.09.54:711][127]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.09.56:847][250]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.23:224][819]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.44:634][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.49:300][347]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.50:156][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.50:741][430]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.50:818][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.51:236][458]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.51:756][488]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.57:217][812]Cmd: TRANSACTION UNDO
+[2018.08.27-19.10.57:217][812]LogEditorTransaction: Undo Move Actors
+[2018.08.27-19.10.57:633][831]Cmd: TRANSACTION UNDO
+[2018.08.27-19.10.57:633][831]LogEditorTransaction: Undo Move Actors
+[2018.08.27-19.10.59:067][902]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.10.59:792][937]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.11.09:050][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.11.17:987][985]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.27-19.11.20:365][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.11.47:047][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.12.00:882][526]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.12.01:506][561]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.12.13:108][248]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock2)
+[2018.08.27-19.12.14:830][347]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.12.18:205][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.12.30:297][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.13.14:844][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.13.21:260][218]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.13.30:663][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.13.32:695][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.13.33:269][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.13.35:158][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.13.36:645][121]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.13.38:379][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.14.29:468][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.15.02:864][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.15.20:129][293]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock2)
+[2018.08.27-19.15.37:076][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.15.41:738][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.15.49:804][ 50]LogEditorViewport: Clicking Background
+[2018.08.27-19.15.58:645][578]LogEditorViewport: Clicking Background
+[2018.08.27-19.16.02:058][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.16.02:823][788]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.08.27-19.16.22:814][976]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock6)
+[2018.08.27-19.16.25:867][157]LogEditorViewport: Clicking Background
+[2018.08.27-19.16.30:307][423]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock6)
+[2018.08.27-19.16.38:543][915]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2018.08.27-19.16.40:804][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.17.13:288][973]Cmd: DELETE
+[2018.08.27-19.17.13:317][973]Cmd: ACTOR DELETE
+[2018.08.27-19.17.13:334][973]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.17.13:376][973]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2018.08.27-19.17.15:710][109]Cmd: DELETE
+[2018.08.27-19.17.15:743][109]Cmd: ACTOR DELETE
+[2018.08.27-19.17.15:757][109]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.17.15:799][109]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2018.08.27-19.17.43:349][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.18.05:010][969]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap1A1CB01D49579E932037E78C6754C818.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.27-19.18.05:201][969]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_BuiltData12FBE76B46FD1B012841CDAA8C0D854C.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.27-19.18.24:746][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.18.26:681][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.18.36:629][809]Cmd: DELETE
+[2018.08.27-19.18.36:629][809]Cmd: ACTOR DELETE
+[2018.08.27-19.18.36:644][809]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.18.36:696][809]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.08.27-19.18.41:094][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.18.42:270][135]Cmd: TRANSACTION UNDO
+[2018.08.27-19.18.42:270][135]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.18.42:753][155]Cmd: TRANSACTION UNDO
+[2018.08.27-19.18.42:753][155]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.18.43:358][189]Cmd: TRANSACTION UNDO
+[2018.08.27-19.18.43:358][189]LogEditorTransaction: Undo Delete Actors
+[2018.08.27-19.19.07:541][616]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush4)
+[2018.08.27-19.19.17:822][230]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush4)
+[2018.08.27-19.19.24:955][650]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock6)
+[2018.08.27-19.19.25:887][704]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock6)
+[2018.08.27-19.19.28:370][842]Cmd: EDCALLBACK SURFPROPS
+[2018.08.27-19.19.36:359][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.19.52:320][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.20.25:813][235]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.27-19.20.34:442][748]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush4)
+[2018.08.27-19.20.50:036][676]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.50:036][676]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.50:458][694]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.50:458][694]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.20.50:852][712]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.50:852][712]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.51:099][723]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.51:099][723]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.20.51:329][733]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.51:329][733]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.51:527][741]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.51:527][741]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.51:707][749]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.51:707][749]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.51:910][758]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.51:910][758]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.52:092][766]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.52:092][766]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.52:279][775]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.52:279][775]LogEditorTransaction: Undo Select Surface
+[2018.08.27-19.20.52:474][784]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.52:474][784]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.52:785][800]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.52:785][800]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.53:130][819]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.53:130][819]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.54:069][874]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.54:069][874]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.20.54:546][901]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.54:546][901]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.20.54:974][925]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.54:974][925]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.55:552][957]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.55:552][957]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.56:025][984]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.56:025][984]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.20.56:470][  9]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.56:470][  9]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.20.56:896][ 33]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.56:896][ 33]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.57:359][ 58]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.57:359][ 58]LogEditorTransaction: Undo Select Brush Surface
+[2018.08.27-19.20.57:831][ 85]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.57:831][ 85]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.20.58:292][111]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.58:292][111]LogEditorTransaction: Undo Modifier [Edit]
+[2018.08.27-19.20.58:772][138]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.58:772][138]LogEditorTransaction: Undo Modifier [Edit]
+[2018.08.27-19.20.59:237][165]Cmd: TRANSACTION UNDO
+[2018.08.27-19.20.59:237][165]LogEditorTransaction: Undo Modifier [Brush Clip]
+[2018.08.27-19.21.35:528][315]Cmd: DELETE
+[2018.08.27-19.21.35:528][315]Cmd: ACTOR DELETE
+[2018.08.27-19.21.35:532][315]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.21.35:571][315]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.08.27-19.21.54:167][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.21.58:745][698]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.27-19.22.07:432][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.22.48:661][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.23.13:275][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.23.52:851][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.23.53:150][449]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMapCCAB4C864B95B336836339B9B08F0FC4.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.27-19.23.53:331][449]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_BuiltData5BFD4C0446FA1E3F6F9E67A29689F813.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.27-19.24.40:570][265]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock6)
+[2018.08.27-19.24.47:419][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.24.51:270][897]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.08.27-19.24.54:347][ 79]LogEditorViewport: Clicking Background
+[2018.08.27-19.24.56:035][178]LogEditorViewport: Clicking Background
+[2018.08.27-19.24.56:806][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.25.12:420][157]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.12:420][157]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.25.12:649][168]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.12:649][168]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.25.12:864][179]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.12:865][179]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.25.13:081][191]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.13:081][191]LogEditorTransaction: Undo Clicking Background
+[2018.08.27-19.25.13:280][200]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.13:280][200]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.25.13:482][212]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.13:482][212]LogEditorTransaction: Undo Clicking Background
+[2018.08.27-19.25.13:670][222]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.13:670][222]LogEditorTransaction: Undo Marquee Select
+[2018.08.27-19.25.13:905][235]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.13:905][235]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.25.14:256][255]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.14:256][255]LogEditorTransaction: Undo Modifier [Brush Clip]
+[2018.08.27-19.25.14:282][255]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.StreetSquareBlock6_48.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.08.27-19.25.14:474][265]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.14:475][265]LogEditorTransaction: Undo Edit Split
+[2018.08.27-19.25.14:724][279]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.14:724][279]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.27-19.25.14:913][289]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.14:913][289]LogEditorTransaction: Undo Edit Split
+[2018.08.27-19.25.15:099][299]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.15:099][299]LogEditorTransaction: Undo Edit Split
+[2018.08.27-19.25.15:313][311]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.15:313][311]LogEditorTransaction: Undo Edit Split
+[2018.08.27-19.25.15:524][323]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.15:524][323]LogEditorTransaction: Undo Edit Split
+[2018.08.27-19.25.15:721][334]Cmd: TRANSACTION UNDO
+[2018.08.27-19.25.15:721][334]LogEditorTransaction: Undo Edit Split
+[2018.08.27-19.25.16:800][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.25.38:627][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.25.40:696][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.25.43:899][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.25.51:773][468]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock6)
+[2018.08.27-19.25.54:737][644]LogEditorViewport: Clicking Background
+[2018.08.27-19.25.59:679][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.26.04:126][204]LogEditorViewport: Clicking Background
+[2018.08.27-19.26.06:129][322]LogEditorViewport: Clicking Background
+[2018.08.27-19.26.07:338][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.26.10:577][586]LogEditorViewport: Clicking Background
+[2018.08.27-19.26.12:230][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.26.15:850][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.26.24:006][379]Cmd: DELETE
+[2018.08.27-19.26.24:038][379]Cmd: ACTOR DELETE
+[2018.08.27-19.26.24:044][379]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.26.24:084][379]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.08.27-19.26.29:914][728]LogEditorViewport: Clicking Background
+[2018.08.27-19.26.39:030][274]LogEditorViewport: Clicking Background
+[2018.08.27-19.26.46:861][742]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2018.08.27-19.26.49:506][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.26.52:294][ 59]Cmd: DELETE
+[2018.08.27-19.26.52:324][ 59]Cmd: ACTOR DELETE
+[2018.08.27-19.26.52:328][ 59]LogEditorActor: Deleted Actor: Brush
+[2018.08.27-19.26.52:366][ 59]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.08.27-19.27.14:009][348]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.27.20:924][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.27.21:219][758]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap4A1A8DE04B482C6A60A475BBB1ACC045.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.27-19.27.21:387][758]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_BuiltData210B344345CE3FEC52C8FA9798D35E4F.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.27-19.27.22:817][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.27.28:588][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.27.43:656][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.27.56:721][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.28.20:451][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.28.24:019][962]LogEditorViewport: Clicking Background
+[2018.08.27-19.28.25:342][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.29.01:425][181]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush5)
+[2018.08.27-19.29.26:932][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.29.31:866][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.29.49:111][ 10]LogEditorViewport: Clicking Background
+[2018.08.27-19.29.49:133][ 11]LogEditorViewport: Clicking Background
+[2018.08.27-19.29.53:730][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.30.13:917][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.30.21:003][881]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.30.49:811][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.31.01:757][256]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.31.16:152][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.31.17:594][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.27-19.31.23:668][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.31.25:979][679]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.31.27:234][752]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.31.58:764][607]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.31.58:813][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.32.06:230][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.32.32:848][628]LogEditorViewport: Clicking Background
+[2018.08.27-19.32.33:568][671]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock16)
+[2018.08.27-19.32.38:221][944]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock20)
+[2018.08.27-19.32.41:603][143]LogEditorViewport: Clicking Background
+[2018.08.27-19.32.41:614][143]LogEditorViewport: Clicking Background
+[2018.08.27-19.32.50:122][653]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock2)
+[2018.08.27-19.32.51:514][735]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock8)
+[2018.08.27-19.32.52:768][809]LogEditorViewport: Clicking Background
+[2018.08.27-19.32.53:321][842]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock2)
+[2018.08.27-19.32.54:705][924]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock8)
+[2018.08.27-19.32.57:067][ 63]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock6)
+[2018.08.27-19.33.00:312][256]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock4)
+[2018.08.27-19.33.02:051][359]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock)
+[2018.08.27-19.33.09:083][779]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock2)
+[2018.08.27-19.33.13:807][ 58]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock)
+[2018.08.27-19.33.15:050][131]LogEditorViewport: Clicking Background
+[2018.08.27-19.33.15:904][182]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock2)
+[2018.08.27-19.33.16:945][243]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock)
+[2018.08.27-19.33.19:220][378]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock3)
+[2018.08.27-19.33.20:740][468]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetSquareBlock6)
+[2018.08.27-19.33.22:126][550]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock2)
+[2018.08.27-19.33.26:400][802]LogEditorViewport: Clicking Background
+[2018.08.27-19.33.32:325][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.34.00:336][831]LogEditorViewport: Clicking Background
+[2018.08.27-19.34.01:820][919]LogEditorViewport: Clicking on Actor (LMB): Brush (StreetRectBlock16)
+[2018.08.27-19.34.02:673][969]LogEditorViewport: Clicking Background
+[2018.08.27-19.34.19:958][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.34.20:333][ 10]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap352142D447FC1029F57AE597252B1F9E.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.27-19.34.20:512][ 10]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_BuiltData864B5A4244E57455243079AF717E7866.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.27-19.34.22:691][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-19.34.32:483][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.34.35:736][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.34.37:764][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.27-19.34.41:348][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-19.34.41:637][252]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap44639E684BAFA9273106C9BEAF353A34.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.27-19.34.41:804][252]LogSavePackage: Moving 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Saved/ThirdPersonExampleMap_BuiltData57334BDA4784867D9E7CA6ABCA1CA2C9.tmp' to 'C:/Users/William/Documents/Unreal Projects/Englert_AP_3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.27-19.34.42:993][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
